@@ -25,6 +25,7 @@ makeCacheMatrix <- function(x = matrix()) {
         
                                 ## Defines the contents of inv and assigns
                                 ## it to memory external to the fxn.
+                                ##
         
         getInverse <- function() inv
                                 ## outputs what ever setInverse has assinged 
